@@ -1,6 +1,8 @@
-[![MasterHead](https://www.google.com/search?q=c%23+developer&tbm=isch&ved=2ahUKEwivhZny8teDAxUFRuUKHZ-xC8sQ2-cCegQIABAA&oq&gs_lcp=CgNpbWcQARgDMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnOgQIIxAnOgcIABCABBATUJsPWJsPYJUWaAFwAHgAgAG2AYgBtgGSAQMwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=yjahZa_4CYWMlQef467YDA&bih=738&biw=1536#imgrc=Cah1BojQGpHv7M)
+ [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkruschecompany.com%2Finternational-c-and-net-developer-salary-ranges%2F&psig=AOvVaw2lGiw5GPgGp51qP19J84Ye&ust=1705150569922000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMipnoPz14MDFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Nurlan Gasimli</h1>
 <h3 align="center">I'm a Software Engineer.I always work to make my dreams come true and I believe that will achieve it!</h3>
+
+- 🔭 I’m currently working on **C#**
 
 - 📫 How to reach me **gasimlinurlan07@gmail.com**
 
