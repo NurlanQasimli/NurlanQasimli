@@ -1,6 +1,9 @@
- [![MasterHead]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkruschecompany.com%2Finternational-c-and-net-developer-salary-ranges%2F&psig=AOvVaw2lGiw5GPgGp51qP19J84Ye&ust=1705150569922000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMipnoPz14MDFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Nurlan Gasimli</h1>
 <h3 align="center">I'm a Software Engineer.I always work to make my dreams come true and I believe that will achieve it!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurlanqasimli&label=Profile%20views&color=0e75b6&style=flat" alt="nurlanqasimli" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurlanqasimli" alt="nurlanqasimli" /></a> </p>
 
 - 🔭 I’m currently working on **C#**
 
@@ -21,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurlanqasimli&show_icons=true&locale=en" alt="nurlanqasimli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurlanqasimli&" alt="nurlanqasimli" /></p>
+
