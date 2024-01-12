@@ -1,4 +1,4 @@
- [![MasterHead] https://www.google.com/url?sa=i&url=https%3A%2F%2Fkruschecompany.com%2Finternational-c-and-net-developer-salary-ranges%2F&psig=AOvVaw2lGiw5GPgGp51qP19J84Ye&ust=1705150569922000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMipnoPz14MDFQAAAAAdAAAAABAD
+ [![MasterHead]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkruschecompany.com%2Finternational-c-and-net-developer-salary-ranges%2F&psig=AOvVaw2lGiw5GPgGp51qP19J84Ye&ust=1705150569922000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMipnoPz14MDFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Nurlan Gasimli</h1>
 <h3 align="center">I'm a Software Engineer.I always work to make my dreams come true and I believe that will achieve it!</h3>
 
